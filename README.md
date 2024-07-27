@@ -1,4 +1,4 @@
-# Matrix Multiplication
+# Matrix Calcualtor
 
 ## Description
 This Python script performs matrix multiplication on sparse matrices. It reads matrix data from an input file, multiplies the matrices, and saves the result to an output file.
